@@ -164,6 +164,8 @@ app.use((err,req,res,next) => {
 })
 
 
+const port = process.env.PORT || 8080;
+
 app.listen(8080,()=>{
-    console.log('server is up')
+    console.log(`server is started at ${port}`)
 })
