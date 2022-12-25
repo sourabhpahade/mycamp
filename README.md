@@ -1,5 +1,4 @@
 # mycamp
-It's a  code-along project from a udemy web-dev course by colt steele
 
 This project gives users a platform to upload details of thier camp i.e location, price, photos etc, so the other user who are in 
 search for these services can find a suitable camp for thier visit. 
